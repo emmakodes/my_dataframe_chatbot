@@ -36,4 +36,4 @@ This app enables users to interact with their dataframe without using code but n
 
 
   <br>
-  You can read the article where I explained how I built the app: Build a chatbot to interact with your Pandas DataFrame using Reflex
+You can read the article where I explained how I built the app: [Build a chatbot to interact with your Pandas DataFrame using Reflex](https://dev.to/emmakodes_/build-a-chatbot-to-interact-with-your-pandas-dataframe-using-reflex-4j8p)
