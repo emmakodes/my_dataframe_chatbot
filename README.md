@@ -33,3 +33,7 @@ This app enables users to interact with their dataframe without using code but n
   `reflex init`
 
   `reflex run`
+
+
+  <br>
+  You can read the article where I explained how I built the app: Build a chatbot to interact with your Pandas DataFrame using Reflex
